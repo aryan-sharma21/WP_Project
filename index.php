@@ -30,7 +30,7 @@
             </div>
                 <div class="content-top">
                     <div class="listview_1_of_3 images_1_of_3">
-                        <h3>Upcoming Movies</h3>
+                        <h3>Upcoming Album Launches</h3>
                         <?php 
 					$qry3=mysqli_query($con,"select * from tbl_news");
 					
@@ -58,7 +58,7 @@
 				?>
                     </div>
                     <div class="listview_1_of_3 images_1_of_3">
-                        <h3>Trending Trailers</h3>
+                        <h3>Trending Artists</h3>
                         <div class="middle-list">
                             <?php 
 					$qry4=mysqli_query($con,"select * from tbl_movie order by rand()");

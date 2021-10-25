@@ -5,15 +5,15 @@
 					<div class="footer-nav">
 		                <ul>
 		                   <li><a href="index.php">Home</a></li>
-			  		   <li><a href="movies_events.php">Movies</a></li>
+			  		   <li><a href="movies_events.php">Artists</a></li>
 			  		   <li><a href="login.php">Login</a></li>
 		                   </ul>
 		              </div>
 				</div>
 				<div class="col_1_of_4 span_1_of_4">
 					<div class="textcontact">
-						<p>Theatre Assistance<br>
-						Theatre 3D Movie<br>
+						<p>To contact us<br>
+						Speed Records<br>
 						Ph: +1-800-234-52589.<br>
 						</p>
 					</div>
