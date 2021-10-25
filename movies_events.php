@@ -1,16 +1,17 @@
-<!--<head>
-    <link rel="stylesheet" href="css/home.css" type="text/css" media="all" />
-    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
-    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script language="JavaScript" type="text/javascript" src="/js/app.js"></script>
-</head>-->
 <div class="app">
+    <!--<head>
+        <link rel="stylesheet" href="css/home.css" type="text/css" media="all" />
+        <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+        <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script language="JavaScript" type="text/javascript" src="/js/app.js"></script>
+    </head>-->
+
     <?php include('header.php');?>
 
     <div class="content">
         <div class="apps-card">
             <div class="wrap">
-                <h3>Movies</h3>
+                <center><h3>Performances</h3></center>
                 <div class="content-top">
 
 
